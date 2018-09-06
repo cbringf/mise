@@ -1,0 +1,19 @@
+{
+  "name": "mise",
+  "version": "1.0.0",
+  "description": "MIcroSErvices system tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbringf/mise.git"
+  },
+  "author": "Celso Bring",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbringf/mise/issues"
+  },
+  "homepage": "https://github.com/cbringf/mise#readme"
+}
