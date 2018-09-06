@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"outDir": "./dist/",
+		"module": "commonJs",
+		"allowJs": true,
+		"lib": [
+			"es2015"
+		]
+	}
+}

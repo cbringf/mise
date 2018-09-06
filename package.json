@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/cbringf/mise/issues"
   },
-  "homepage": "https://github.com/cbringf/mise#readme"
+  "homepage": "https://github.com/cbringf/mise#readme",
+  "devDependencies": {
+    "ts-loader": "^5.0.0",
+    "typescript": "^3.0.3",
+    "webpack": "^4.17.2",
+    "webpack-node-externals": "^1.7.2"
+  }
 }
